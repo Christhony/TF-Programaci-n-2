@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Sprits.h(37,47): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Sprits.h(37,38): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Sprits.h(44,63): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Sprits.h(44,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Controlador.h(37,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Controlador.h(45,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Controlador.h(54,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Controlador.h(65,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\MyForm.h(23,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PracticaFinal1.vcxproj -> C:\Users\PC05\source\repos\PracticaFinal1\Debug\PracticaFinal1.exe

@@ -1,0 +1,3 @@
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Debug\PracticaFinal1.MyForm.resources
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Debug\PracticaFinal1.vcxproj.GenerateResource.cache
+C:\Users\PC05\source\repos\PracticaFinal1\PracticaFinal1\Debug\PracticaFinal1.vcxprojAssemblyReference.cache
